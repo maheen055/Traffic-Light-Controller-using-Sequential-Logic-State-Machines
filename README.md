@@ -1,7 +1,5 @@
 # Traffic Light Controller using Sequential Logic & State-Machines
 
-## Personal Project by Maheen Shoaib
-
 ### Project Overview
 
 This project involves designing a Traffic Light Controller (TLC) using VHDL for sequential circuits, focusing on state machine design concepts, metastability issues, and synchronous design techniques. 
